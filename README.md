@@ -14,7 +14,7 @@ A beautiful, production-ready movie search and watchlist application built with 
 
 ## 🚀 Live Demo
 
-[Add your deployed link here]
+[Live Demo](https://startling-basbousa-933c70.netlify.app/)
 
 ## 🛠️ Technologies Used
 
